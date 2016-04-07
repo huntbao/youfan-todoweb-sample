@@ -1,0 +1,13 @@
+{
+  "name": "express-freemarker",
+  "homepage": "https://github.com/leeluolee/express-freemarker",
+  "_release": "a589ff02cf",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a589ff02cf5d112848360f433b3c4d637f2aac0d"
+  },
+  "_source": "https://github.com/leeluolee/express-freemarker.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/leeluolee/express-freemarker.git"
+}
