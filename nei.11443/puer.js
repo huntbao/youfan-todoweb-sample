@@ -4,10 +4,10 @@ module.exports = {
     "port": 8002,
     "engine": engine,
     "dir": "../src/main/webapp/",
-    "views": "../src/main/webapp/WEB-INF/views.out/",
+    "views": "../src/main/webapp/WEB-INF/views/",
     "inspect": false,
     "reload": false,
     "launch": true,
-    "offline": true,
+    "offline": false,
     "rules": "./route.js"
 };
