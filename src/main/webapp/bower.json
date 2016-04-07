@@ -1,0 +1,9 @@
+{
+    "name": "auto-11443",
+    "version": "0.0.1",
+    "dependencies": {
+        "express-freemarker": "https://github.com/leeluolee/express-freemarker.git",
+        "nej": "master",
+        "regularjs": ">=0.3.0"
+    }
+}

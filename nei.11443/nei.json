@@ -1,0 +1,16 @@
+{
+    "updateTime": 1459860717471,
+    "project": "./todoweb",
+    "overwrite": false,
+    "template": "webapp",
+    "templatePath": "",
+    "templateDataPath": "",
+    "projectType": "hz.netease",
+    "mcss": true,
+    "action": "build",
+    "id": "11443",
+    "outputRoot": "./",
+    "webRoot": "./src/main/webapp/",
+    "viewRoot": "./src/main/webapp/WEB-INF/views/",
+    "engine": "freemarker"
+}
