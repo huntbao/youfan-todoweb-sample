@@ -9,6 +9,7 @@
     <meta name="keywords" content="Todo web app 首页"/>
 
     <@css/>
+    <link href="${csRoot}pages/index.css" rel="stylesheet" type="text/css"/>
     <link href="${csRoot}pages/login.css" rel="stylesheet" type="text/css"/>
   </head>
   <body>

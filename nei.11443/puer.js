@@ -4,7 +4,7 @@ module.exports = {
     "port": 8002,
     "engine": engine,
     "dir": "../src/main/webapp/",
-    "views": "../src/main/webapp/WEB-INF/views/",
+    "views": "../src/main/webapp/WEB-INF/views.out/",
     "inspect": false,
     "reload": false,
     "launch": true,
