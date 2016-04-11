@@ -1,1 +1,1 @@
-I$(4,function(t){t._$$Module._$allocate()},2);
+webpackJsonp([2],{0:function(e,n,t){"use strict";t(532),function(){var t=document.getElementById("login-name"),e=document.getElementById("form");e.addEventListener("submit",function(e){""===t.value.trim()&&(alert("请输入用户名"),t.focus(),e.preventDefault())})}()},532:function(t,e){}});I$(4,function(t){t._$$Module._$allocate()},2);

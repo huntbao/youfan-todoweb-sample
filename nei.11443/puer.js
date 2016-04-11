@@ -8,6 +8,6 @@ module.exports = {
     "inspect": false,
     "reload": false,
     "launch": true,
-    "offline": false,
+    "offline": true,
     "rules": "./route.js"
 };

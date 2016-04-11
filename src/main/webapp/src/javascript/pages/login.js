@@ -27,16 +27,16 @@ NEJ.define([
     pro.__init = function (options) {
         this.__super(options);
         // TODO something if necessary
-        var loginBtn = e._$getByClassName(document, 'user-name')[0];
-        v._$addEvent(loginBtn, 'click', function (e) {
-            e.preventDefault();
-            alert('已登录');
-        });
-        var loginBtn = e._$getByClassName(document, 'login-btn')[0];
-        v._$addEvent(loginBtn, 'click', function (e) {
-            e.preventDefault();
-            alert('你还没登录');
-        });
+        //var loginBtn = e._$getByClassName(document, 'user-name')[0];
+        //v._$addEvent(loginBtn, 'click', function (e) {
+        //    e.preventDefault();
+        //    alert('已登录');
+        //});
+        //var loginBtn = e._$getByClassName(document, 'login-btn')[0];
+        //v._$addEvent(loginBtn, 'click', function (e) {
+        //    e.preventDefault();
+        //    alert('你还没登录');
+        //});
     };
     /**
      * 模块重置逻辑
